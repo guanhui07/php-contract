@@ -1,0 +1,38 @@
+{
+    "name": "raylin666/contract",
+    "description": "The contracts of raylin666",
+    "keywords": [
+        "sdk",
+        "raylin666",
+        "php",
+        "contract",
+        "interface"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/raylin666/contract",
+    "authors": [
+        {
+            "name": "raylin666",
+            "email": "1099013371@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "psr/container": "~1.0.0",
+        "psr/event-dispatcher": "^1.0",
+        "psr/log": "^1.0"
+    },
+    "require-dev": {},
+    "autoload": {
+        "files": [],
+        "psr-4": {
+            "Raylin666\\Contract\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {}
+    },
+    "packages": {},
+    "packages-dev": {}
+}
