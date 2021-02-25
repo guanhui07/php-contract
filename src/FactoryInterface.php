@@ -11,8 +11,6 @@
 
 namespace Raylin666\Contract;
 
-use Psr\Container\ContainerInterface;
-
 /**
  * Interface FactoryInterface
  * @package Raylin666\Contract
