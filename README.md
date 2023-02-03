@@ -11,7 +11,7 @@
 ### 安装说明
 
 ```
-composer require "raylin666/contract"
+composer require "guanhui07/contract"
 ```
 
 ### 更新日志
